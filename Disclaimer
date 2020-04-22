@@ -1,0 +1,5 @@
+These scripts were base on Angelo Carvalho and Glauber Gallego article on AWS: https://aws.amazon.com/pt/blogs/apn-latam/automatizando-o-startstop-das-suas-instancias-ec2/
+
+Made some improvements, like updating boto3 communication with EC2 instances. Also, I developed a second script, attaching and dettaching instances from a classic Elastic Load Balancer.
+
+Soon I intend to update this repo using Application Load Balancer.
